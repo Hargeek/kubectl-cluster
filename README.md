@@ -1,6 +1,6 @@
 ## kubectl plugin: kubectl-cluster
 
-A simple kubectl plugin: supports specifying cluster names when using kubectl
+`kubectl-cluster` is a simple kubectl plugin: supports specifying cluster names when using kubectl
 
 If you have a multi-cluster config file in the ~/.kube directory, you can use it
 
